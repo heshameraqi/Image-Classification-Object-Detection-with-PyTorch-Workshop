@@ -6,7 +6,6 @@ Senior Expert (Director) of AI & Chief AI Scientist, Valeo
 
 Adjunct Faculty, CSE & MENG departments, the American University in Cairo
 
-
 Session Lead & Mentor, Udacity
 
 ===============
