@@ -1,7 +1,7 @@
 # Image Classification Object Detection with PyTorch Workshop
 **Hesham Eraqi**\
-Senior Expert (Director) of AI & Chief AI Scientist, Valeo\
-Adjunct Faculty, CSE & MENG departments, the American University in Cairo\
+Senior Expert (Director-level Position) of AI & Chief AI Scientist, Valeo\
+Adjunct Assistant Professor, CSE & MENG departments, the American University in Cairo\
 Session Lead & Mentor, Udacity
 
 ## Steps: 
